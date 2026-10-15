@@ -1,5 +1,3 @@
-## Havassy András vibe kódolással létrehozott programjainak gyűjteménye 💻
-
 <h1 align="center">Havassy András saját fejlesztésű alkalmazásai</h1>
 
 <p align="center">
