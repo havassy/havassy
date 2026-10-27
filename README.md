@@ -33,14 +33,14 @@ Az itt bemutatott programok közül több közvetlenül kipróbálható online i
       <a href="https://github.com/havassy/seterra">Repo</a>
     </td>
     <td align="center" width="33%">
-      <a href="https://havassy.github.io/fotoblog/">
+      <a href="https://balkaninaplo.hu/">
         <img src="./assets/icons/fotoblog.png" alt="Napjaim a Balkánon" width="110"><br>
         <b>Napjaim a Balkánon</b>
       </a>
       <br><br>
       Balkáni utazások fotónaplója – képek, helyszínek és rövid történetek.
       <br><br>
-      <a href="https://havassy.github.io/fotoblog/">Megnézem</a> ·
+      <a href="https://balkaninaplo.hu/">Megnézem</a> ·
       <a href="https://github.com/havassy/fotoblog">Repo</a>
     </td>
   </tr>
@@ -91,7 +91,7 @@ amelyek a tanítást, a gyakorlást és a tanórai szervezést segítik.
 ## További linkek
 
 - 🌍 [Tanári blog / Substack](https://havassy.substack.com/)
-- 📷 [Fotóblog](https://havassy.github.io/fotoblog/)
+- 📷 [Fotóblog](https://balkaninaplo.hu/)
 - 💻 [GitHub-profil](https://github.com/havassy)
 
 
